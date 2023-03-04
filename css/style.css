@@ -1,0 +1,42 @@
+body{
+    font-family: open sans sans-serif;
+}
+
+.link{
+    text-decoration: none;
+}
+.list{
+    list-style: none;
+}
+.header{
+    background-color: grey;
+}
+.header-link{
+        font-weight: 600;
+        font-size: 12px;
+        line-height: 1.33px;
+        letter-spacing: 0.1em;
+        color: #FFFFFF;
+}
+
+.header-tel{
+        font-weight: 600;
+        font-size: 12px;
+        line-height: 1.33;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+    
+        color: #FFFFFF;
+}
+
+.header-btn{
+        font-family: inherit;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 12px;
+        line-height: 1.33;
+        letter-spacing: 0.09em;
+        text-transform: uppercase;
+        cursor: pointer;
+        color: #FFFFFF;
+}
